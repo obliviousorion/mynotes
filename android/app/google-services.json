@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520431149532",
+    "project_id": "mynotes-8e10d",
+    "storage_bucket": "mynotes-8e10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520431149532:android:6db108808057e8e4dc6f19",
+        "android_client_info": {
+          "package_name": "com.devorion.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGL73zIzX-_iZKoKxRDgHmjYx36ENZQDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
